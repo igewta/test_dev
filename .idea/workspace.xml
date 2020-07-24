@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dabc84bf-e1f6-4478-baf1-b08a30322995" name="Default Changelist" comment="" />
+    <list default="true" id="dabc84bf-e1f6-4478-baf1-b08a30322995" name="Default Changelist" comment="login/logout">
+      <change afterPath="$PROJECT_DIR$/app_personal/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_personal/templates/manage.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,8 +107,16 @@
       <workItem from="1594901694576" duration="1389000" />
       <workItem from="1595426175791" duration="1743000" />
       <workItem from="1595461052396" duration="1134000" />
-      <workItem from="1595590188666" duration="7204000" />
+      <workItem from="1595590188666" duration="7667000" />
     </task>
+    <task id="LOCAL-00001" summary="login/logout">
+      <created>1595597553566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595597553566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,8 +126,14 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="login/logout" />
+    <option name="LAST_COMMIT_MESSAGE" value="login/logout" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="659" y="167" key="CommitChangelistDialog2" timestamp="1595597596266">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="659" y="167" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1595597596266" />
     <state x="1213" y="411" key="FileChooserDialogImpl" timestamp="1595597388972">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -145,6 +162,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="558" y="204" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1595597401409" />
+    <state x="663" y="204" key="Vcs.Push.Dialog.v2" timestamp="1595597608737">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="663" y="204" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1595597608737" />
     <state x="453" y="161" width="1268" height="744" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595597016109">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
