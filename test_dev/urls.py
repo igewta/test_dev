@@ -20,5 +20,9 @@ from app_personal import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('hello/', views.hello),
-    path('', admin.site.urls),
+    path('', views.login),
+    path('login/', views.login),
+    path('login_action/',views.login_action),
+    path('manage/', views.manage),
+    path('logout/', views.logout),
 ]
